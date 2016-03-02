@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1450711058 source:c:\users\wh980\desktop\学生管理系统\xueshengguanli\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1450708818 c:\users\wh980\desktop\学生管理系统\xueshengguanli\header.h
+	<stdio.h>
+	<string.h>
+
+1450711599 c:\users\wh980\desktop\学生管理系统\xueshengguanli\headers.h
+	<stdio.h>
+	<string.h>
+
+1451396542 source:f:\学生管理系统\xueshengguanli\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1451396552 f:\学生管理系统\xueshengguanli\headers.h
+	<stdio.h>
+	<string.h>
+
+1451559649 source:c:\users\administrator\desktop\xueshengguanli\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1451564802 c:\users\administrator\desktop\xueshengguanli\headers.h
+	<stdio.h>
+	<string.h>
+
+1451559650 source:e:\大一上\学生管理系统\xueshengguanli\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1456879517 e:\大一上\学生管理系统\xueshengguanli\headers.h
+	<stdio.h>
+	<string.h>
+
